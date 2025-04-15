@@ -16,21 +16,22 @@ Este projeto é uma aplicação completa de **cadastro de usuários**, com front
 
 ## 🚀 Tecnologias Utilizadas
 
-### 🔹 Front-end
+### 💻 Front-end
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - CSS (estilização simples)
+ 
+📁 Repositório do front-end:  
+🔗 [`registration-user-react`](https://github.com/reinaldo-matheus/registration-user-react)
+
 
 ---
 
-### 🔹 Back-end
+### ⚙️ Back-end
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [Prisma](https://www.prisma.io/)
 - [MongoDB](https://www.mongodb.com/)
-
-📁 Repositório do back-end:  
-🔗 [`back-end-registration-user-react`](https://github.com/reinaldo-matheus/back-end-registration-user-react)
 
 ---
 
@@ -46,7 +47,7 @@ Este projeto é uma aplicação completa de **cadastro de usuários**, com front
 
 ## 📦 Como rodar o projeto localmente
 
-### 🔧 Back-end
+### 🛠️ Back-end
 
 ```bash
 # Clone o repositório
@@ -67,7 +68,7 @@ node server.js
 
 ---
 
-### 💻 Front-end
+### 🪄 Front-end
 
 ```bash
 # Clone o repositório
